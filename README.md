@@ -15,7 +15,7 @@
 ## 👨‍🚀 Sobre Mí
 
 - 🔭 Soy estudiante del programa de **Análisis y Desarrollo de Software (ADSO)** en el SENA.
-- ⏳ Llevo **10 meses de formación** intensiva, enfocado en construir soluciones tecnológicas escalables.
+- ⏳ Llevo **13 meses de formación** intensiva, enfocado en construir soluciones tecnológicas escalables.
 - 🧠 Me apasiona la **arquitectura de software**, las **metodologías ágiles (Scrum)** y el ciclo de vida completo de un proyecto.
 - 🤖 Exploro constantemente la integración de herramientas de **Inteligencia Artificial** y la automatización de procesos (como **n8n**).
 - 💼 **Actualmente busco oportunidades profesionales o de prácticas** para aportar valor, aplicar mis conocimientos y seguir creciendo en la industria.
